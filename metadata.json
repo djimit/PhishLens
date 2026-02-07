@@ -1,0 +1,5 @@
+{
+  "name": "PhishLens: CharGRU Phishing Detector",
+  "description": "A sophisticated character-level phishing detection interface using Gemini to simulate CharGRU models and Grad-CAM explainability as described in the research paper 'Every Character Counts'.",
+  "requestFramePermissions": []
+}
