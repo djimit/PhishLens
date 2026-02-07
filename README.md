@@ -1,4 +1,8 @@
-<div align="center">
+<div align="left">
+
+<img width="978" height="684" alt="PhisLens" src="https://github.com/user-attachments/assets/37c2b23b-4f84-473b-8e6c-24792920a6b1" />
+
+
 # PhishLens
 PhishLens is a lightweight Gemini powered web app for phishing analysis and triage, built as a Google AI Studio app template.
 
